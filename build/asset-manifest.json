@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/todolist-react-redux2.0/static/css/main.6c269990.chunk.css",
+    "main.js": "/todolist-react-redux2.0/static/js/main.34ebc551.chunk.js",
+    "main.js.map": "/todolist-react-redux2.0/static/js/main.34ebc551.chunk.js.map",
+    "runtime-main.js": "/todolist-react-redux2.0/static/js/runtime-main.6a1945ed.js",
+    "runtime-main.js.map": "/todolist-react-redux2.0/static/js/runtime-main.6a1945ed.js.map",
+    "static/js/2.07c38329.chunk.js": "/todolist-react-redux2.0/static/js/2.07c38329.chunk.js",
+    "static/js/2.07c38329.chunk.js.map": "/todolist-react-redux2.0/static/js/2.07c38329.chunk.js.map",
+    "index.html": "/todolist-react-redux2.0/index.html",
+    "static/css/main.6c269990.chunk.css.map": "/todolist-react-redux2.0/static/css/main.6c269990.chunk.css.map",
+    "static/js/2.07c38329.chunk.js.LICENSE.txt": "/todolist-react-redux2.0/static/js/2.07c38329.chunk.js.LICENSE.txt",
+    "static/media/priority0.88cf0aa9.svg": "/todolist-react-redux2.0/static/media/priority0.88cf0aa9.svg",
+    "static/media/priority1.adb5bfef.svg": "/todolist-react-redux2.0/static/media/priority1.adb5bfef.svg",
+    "static/media/priority2.e51b7668.svg": "/todolist-react-redux2.0/static/media/priority2.e51b7668.svg",
+    "static/media/priority3.9598ad9b.svg": "/todolist-react-redux2.0/static/media/priority3.9598ad9b.svg",
+    "static/media/priority4.e2963e1e.svg": "/todolist-react-redux2.0/static/media/priority4.e2963e1e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a1945ed.js",
+    "static/js/2.07c38329.chunk.js",
+    "static/css/main.6c269990.chunk.css",
+    "static/js/main.34ebc551.chunk.js"
+  ]
+}
