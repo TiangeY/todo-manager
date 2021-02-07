@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/todo-manager/static/css/main.6c269990.chunk.css",
+    "main.js": "/todo-manager/static/js/main.efd53b26.chunk.js",
+    "main.js.map": "/todo-manager/static/js/main.efd53b26.chunk.js.map",
+    "runtime-main.js": "/todo-manager/static/js/runtime-main.98889e66.js",
+    "runtime-main.js.map": "/todo-manager/static/js/runtime-main.98889e66.js.map",
+    "static/js/2.b39a8b09.chunk.js": "/todo-manager/static/js/2.b39a8b09.chunk.js",
+    "static/js/2.b39a8b09.chunk.js.map": "/todo-manager/static/js/2.b39a8b09.chunk.js.map",
+    "index.html": "/todo-manager/index.html",
+    "static/css/main.6c269990.chunk.css.map": "/todo-manager/static/css/main.6c269990.chunk.css.map",
+    "static/js/2.b39a8b09.chunk.js.LICENSE.txt": "/todo-manager/static/js/2.b39a8b09.chunk.js.LICENSE.txt",
+    "static/media/priority0.88cf0aa9.svg": "/todo-manager/static/media/priority0.88cf0aa9.svg",
+    "static/media/priority1.adb5bfef.svg": "/todo-manager/static/media/priority1.adb5bfef.svg",
+    "static/media/priority2.e51b7668.svg": "/todo-manager/static/media/priority2.e51b7668.svg",
+    "static/media/priority3.9598ad9b.svg": "/todo-manager/static/media/priority3.9598ad9b.svg",
+    "static/media/priority4.e2963e1e.svg": "/todo-manager/static/media/priority4.e2963e1e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98889e66.js",
+    "static/js/2.b39a8b09.chunk.js",
+    "static/css/main.6c269990.chunk.css",
+    "static/js/main.efd53b26.chunk.js"
+  ]
+}
